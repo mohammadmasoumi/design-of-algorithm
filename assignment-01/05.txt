@@ -1,0 +1,7 @@
+character = input()
+
+if (ord("A") <= ord(character) <= ord("Z")) {
+    print("UPPER")
+}else if (ord("a") <= ord(character) <= ord("z")) {
+    print("LOWER")
+}

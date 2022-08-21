@@ -1,0 +1,7 @@
+character = input()
+
+if ((ord("a") <= ord(character) <= ord("z")) or (ord("A") <= ord(character) <= ord("Z"))) {
+    print("True")
+} else {
+    print("False")
+}

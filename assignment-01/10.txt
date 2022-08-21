@@ -1,0 +1,11 @@
+a=input()
+b=input()
+c=input()
+
+if(a==b and b==c) {
+    print("مثلث‌متساوی‌الاضلاع")
+} else if(a==b and b!=c) {
+    print("مثلث‌متساوی‌الساقین")
+} else {
+    print("مثلث‌مختلف‌الاضلاع")
+}

@@ -1,0 +1,15 @@
+temp=input()
+
+if (temp<0) {
+    print("freezing")
+} else if(0<=temp<10) {
+    print("very cold")
+} else if(10<=temp<20) {
+    print("cold")
+} else if(20<=temp<30) {
+    print("normal")
+} else if(30<=temp<40) {
+    print("hot")
+else {
+    print("very hot")
+}

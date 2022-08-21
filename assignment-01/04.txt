@@ -1,0 +1,24 @@
+x = input()
+
+if (x == "a") {
+    print("Vowel")
+} else if (x == "e) {
+    print("Vowel")
+} else if (x == "i") {
+    print("Vowel")
+} else if (x == "u") {
+    print("Vowel")
+} else if (x == "o") {
+    print("Vowel")
+} else {
+    print("Consonant")
+}
+
+OR 
+x = input()
+
+if (x == "a" or x == "e or x == "i" or x == "u" or x == "o") {
+    print("Vowel")
+} else {
+    print("Consonant")
+}

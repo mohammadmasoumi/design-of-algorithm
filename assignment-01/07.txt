@@ -1,0 +1,9 @@
+a = input()
+
+if (0 < a <= 6) {
+    print("31")
+} else if(6 < a < 12) {
+    print("30")
+} else {
+    print("29") # Esfand 29
+}
