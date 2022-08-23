@@ -1,0 +1,26 @@
+# solution 1
+
+n = input()
+
+n = n % 9
+
+if (n==0) {
+    print(9)
+} else {
+    print(n)
+}
+
+# solution 2
+n = input()
+
+while (n > 9) {
+    s = 0
+    while (n!=0) {
+        b = n % 10
+        n = n // 10
+        s += b
+    }
+    n = s
+}
+
+print(n)

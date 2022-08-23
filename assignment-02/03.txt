@@ -1,0 +1,5 @@
+n = input()
+
+for (int i=1; i <= n; i++) {
+    print(i**3)
+}

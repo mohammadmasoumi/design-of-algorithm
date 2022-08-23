@@ -1,0 +1,31 @@
+n = input()
+
+primes = []
+
+for (i=2; i<n; i++) {
+    is_aval = True
+    for (j=2; j<i; j++) {
+        if (i%j==0) {
+            is_aval = False
+        }
+    }
+    if (is_aval==True) {
+        primes.append(i)
+    }
+}
+
+find_i_j = False
+for (i=0; i<len(primes)-1; i++) {
+    for (j=i+1; j<len(primes); j++) {
+        if (i+j==n) {
+            find_i_j = True
+            break
+        }
+    }   
+}
+
+if (find_i_j==True) {
+    print("True")
+} else {
+    print("False")
+}

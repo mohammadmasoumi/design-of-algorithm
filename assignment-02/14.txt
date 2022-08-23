@@ -1,0 +1,13 @@
+n = input()
+
+s = 0
+counter = 0
+
+while (n!=0) {
+    b = n % 10
+    n = n // 10
+    s += (2 ** counter) * b
+    counter += 1
+}
+
+print(s)

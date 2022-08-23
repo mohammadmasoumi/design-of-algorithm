@@ -1,0 +1,18 @@
+a = input()
+b = input()
+
+
+for (int i=a; i<=b; i++) {
+    is_aval = True
+
+    for (int j=2; j<i; j++) {
+        if (i%j==0) {
+            is_aval = False
+            break
+        }
+    }
+
+    if (is_aval == True) {
+        print(i)
+    }
+}
