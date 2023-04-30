@@ -1,16 +1,65 @@
-# design-of-algorithm
-design-of-algorithm
+# Course Content
 
+## Datatypes
 
-## Contents
+- introduce datatypes (real world exaample)
+  - int(age, number of apples)
+  - float(weight, height)
+  - str(name, lastname)
+  - bool(is disable, has disability)
+  - list(list of students, list of ... )
+- the rationale behind the various data types
+- Storing values in RAM - bit/byte
+- byte code
+- software layer .... hardware layer, How hardware understand data types
+- logical gates circute
+- data types to byte code
+- binary conversion
+- 2 - 16 base
+- base 2 -> base 4 stright way
+  base 2 -> base 8
+- str -> byte code ??
+  - ASCCI code
 
-- Introduction to programming
-- Variables
-  - Introduction
-  - Why do we need them?
-  - How variables store in RAM?
-- Datatypes
-- Statment 
-- Casting concept
-- Input and output
-- Selection statement
+## Variables
+
+- introduce variables as container to hold values
+- swap the value of two variables with each other
+  - with the assistance of a thrid variable
+  - with the assistance of arithmetic operators
+- variable
+  - name
+  - value
+  - type
+- introduce assignment operator
+- ## the value in the right side will be assigned to the variable in the left side
+
+## Simple input and output
+
+- introduce terminal
+- introduce input (from the terminal)
+- introduce print (to the terminal)
+
+## Operators
+
+- arithmetic operators
+- comparison operator
+- assignment operators
+- logical operators
+- bitwise operators
+- membership operators
+- identity operators
+
+### Arithmetic operators
+
+- introduce arithmetic operators
+  - +, -
+  - \*, / (floor div ), // (true div)
+  - pow, \*\*, mod, %
+- mod operator application (periodic samples)
+- math library, sqrt, abs, ...
+- paranthesis priority
+
+## Selecction statement
+
+    -

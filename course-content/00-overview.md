@@ -1,13 +1,13 @@
 # Course Content
 
-## Data Types
+## Datatypes
 
-- introduce data types with example from real world
-  - int
-  - float
-  - str
-  - bool
-  - list
+- introduce datatypes (real world exaample)
+  - int(age, number of apples)
+  - float(weight, height)
+  - str(name, lastname)
+  - bool(is disable, has disability)
+  - list(list of students, list of ... )
 - the rationale behind the various data types
 - Storing values in RAM - bit/byte
 - byte code
