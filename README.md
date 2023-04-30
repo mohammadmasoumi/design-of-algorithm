@@ -4,7 +4,7 @@
 
 - introduce datatypes (real world exaample)
   - int(age, number of apples)
-  - float(weight, height)
+  - float(weight, height, grade)
   - str(name, lastname)
   - bool(is disable, has disability)
   - list(list of students, list of ... )
@@ -15,6 +15,7 @@
 - binary conversion
   - 10 to bases and vice versa
   - 2 to 2^n and vice versa (direct conversion)
+  - base 16
 - binary arithmetic operation
   - 1' complement
   - 2' complement (HIGH LEVEL)
@@ -35,7 +36,7 @@
 
 ## Simple input and output
 
-- introduce terminal
+- introduce terminal - user interaction
 - introduce input (from the terminal)
 - introduce print (to the terminal)
 
@@ -55,7 +56,7 @@
   - +, -
   - \*, / (floor div ), // (true div)
   - pow, \*\*, mod, %
-- mod operator application (periodic samples)
+- mod operator application (periodic patterns)
 - math library, sqrt, abs, ...
 - paranthesis priority
 
