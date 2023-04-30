@@ -8,26 +8,25 @@
   - str(name, lastname)
   - bool(is disable, has disability)
   - list(list of students, list of ... )
-- the rationale behind the various data types
-- Storing values in RAM - bit/byte
-- byte code
-- software layer .... hardware layer, How hardware understand data types
-- logical gates circute
-- data types to byte code
+- the rationale behind the various datatypes
+- storing datatypes in RAM
+- software layer - byte code and CPU instructions
+- hardware layer - logical gates circute
 - binary conversion
-- 2 - 16 base
-- base 2 -> base 4 stright way
-  base 2 -> base 8
-- str -> byte code ??
-  - ASCCI code
+  - 10 to bases and vice versa
+  - 2 to 2^n and vice versa (direct conversion)
+- binary arithmetic operation
+  - 1' complement
+  - 2' complement (according to the class)
+- ASCCI code
 
 ## Variables
 
-- introduce variables as container to hold values
+- variables as container to hold values
 - swap the value of two variables with each other
-  - with the assistance of a thrid variable
+  - with the assistance of a third variable
   - with the assistance of arithmetic operators
-- variable
+- variable properties
   - name
   - value
   - type
