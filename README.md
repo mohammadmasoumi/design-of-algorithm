@@ -5,9 +5,12 @@ design-of-algorithm
 ## Contents
 
 - Introduction to programming
-- Variable
+- Variables
   - Introduction
   - Why do we need them?
   - How variables store in RAM?
-- Datatype
--
+- Datatypes
+- Statment 
+- Casting concept
+- Input and output
+- Selection statement
