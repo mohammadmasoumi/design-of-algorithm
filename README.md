@@ -11,11 +11,11 @@
 ## Datatypes
 
 - introduce datatypes (real world exaample)
-  - int(age, number of apples)
+  - int/integet(age, number of apples)
   - float(weight, height, grade)
-  - str(name, lastname)
-  - bool(is disable, has disability)
-  - list(list of students, list of ... )
+  - str/string(name, lastname)
+  - bool/boolean(is disable, has disability)
+  - list/array(list of students, list of ... )
 - the rationale behind the various datatypes
 - storing datatypes in RAM
 - software layer - byte code and CPU instructions
@@ -69,4 +69,3 @@
 - paranthesis priority
 
 ## Selecction statement
-
