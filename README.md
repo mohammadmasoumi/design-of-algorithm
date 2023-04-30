@@ -24,7 +24,9 @@
 
 - variables as container to hold values
 - introduce assignment operator
+  ```
   the value in the right side will be assigned to the variable in the left side
+  ```
 - swap the value of two variables with each other
   - with the assistance of a third variable
   - with the assistance of arithmetic operators
