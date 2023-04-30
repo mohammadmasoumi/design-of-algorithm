@@ -17,12 +17,14 @@
   - 2 to 2^n and vice versa (direct conversion)
 - binary arithmetic operation
   - 1' complement
-  - 2' complement (according to the class)
+  - 2' complement (HIGH LEVEL)
 - ASCCI code
 
 ## Variables
 
 - variables as container to hold values
+- introduce assignment operator
+  the value in the right side will be assigned to the variable in the left side
 - swap the value of two variables with each other
   - with the assistance of a third variable
   - with the assistance of arithmetic operators
@@ -30,8 +32,6 @@
   - name
   - value
   - type
-- introduce assignment operator
-- ## the value in the right side will be assigned to the variable in the left side
 
 ## Simple input and output
 
