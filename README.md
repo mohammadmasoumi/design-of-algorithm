@@ -1,5 +1,13 @@
 # Course Content
 
+## Appendix
+
+- [Datatypes](#datatypes)
+- [Variables](#variables)
+- [Terminal](#terminal)
+- [Operators](#operators)
+  - [Arithmetic operators](#arithmetic-operators)
+
 ## Datatypes
 
 - introduce datatypes (real world exaample)
@@ -34,15 +42,15 @@
   - value
   - type
 
-## Simple input and output
+## Terminal
 
 - introduce terminal - user interaction
-- introduce input (from the terminal)
-- introduce print (to the terminal)
+- input(built-in function)
+- print(built-in function)
 
 ## Operators
 
-- arithmetic operators
+- [arithmetic operators](#arithmetic-operators)
 - comparison operator
 - assignment operators
 - logical operators
@@ -62,4 +70,3 @@
 
 ## Selecction statement
 
-    -
