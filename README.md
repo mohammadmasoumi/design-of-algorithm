@@ -150,3 +150,59 @@
 - short introduction
 
 ## Selecction statement
+
+- introduction selection statement
+
+  ```
+  1.
+    if (condition or combination of conditions) {
+
+    }
+  2.
+    if (condition) {
+
+    } else {
+
+    }
+  3.
+    if (condition) {
+
+    } else if / elif (condition) {
+
+    } else {
+
+    }
+  ```
+
+- selection statement flowchart
+- ontroduction to statment and code blocks
+- max number between two numbers
+- max number between three numbers
+- calcualtor
+- divisible by 3, 5, 15
+
+## list
+
+- introduction to list
+
+  ```
+  [1, 2, 3, 4] # contains only int
+  [1, "hello", False, 1.2] # contains multi type values
+  ```
+
+- introduction to index
+  - positive indexes
+  - negative indexes
+- how list stores in memory
+- dynamic list vs fixed-length list
+- list methods
+  - append - dynamic length list
+  - insert - change other's item index
+  - remove - change other's item index
+  - extend - dynamic length list
+  - pop - change other's item index
+  - clear
+
+## Mutable VS immutable
+
+- introduction to mutable and immutable
