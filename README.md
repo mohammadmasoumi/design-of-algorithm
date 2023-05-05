@@ -181,7 +181,7 @@
 - calcualtor
 - divisible by 3, 5, 15
 
-## list
+## List
 
 - introduction to list
 
@@ -202,7 +202,26 @@
   - extend - dynamic length list
   - pop - change other's item index
   - clear
+  - copy
+    - shallow copy
+    - deep copy
+
+## String
 
 ## Mutable VS immutable
 
 - introduction to mutable and immutable
+
+## Repetition Stetement
+
+- introduction to for loop
+- flowchart
+- break
+- continue
+
+## Rotate vs Shift
+
+## Function
+
+- args vs params
+- method vs function
